@@ -32,14 +32,14 @@ export default function DownloadPage() {
       
       <div className="flex flex-col gap-4 sm:flex-row">
         <a
-          href="/downloads/Canvas-Intel.dmg"
+          href="https://github.com/kushhooda/pythogen-website/releases/download/canvas-v0.04-beta/Canvas.dmg"
           className="rounded-full bg-blue-500 px-8 py-3 font-medium text-white transition-transform hover:scale-105"
           download
         >
           Download for Intel Mac
         </a>
         <a
-          href="/downloads/Canvas.dmg"
+          href="https://github.com/kushhooda/pythogen-website/releases/download/canvas-v0.04-beta/Canvas.dmg"
           className="rounded-full bg-blue-500 px-8 py-3 font-medium text-white transition-transform hover:scale-105"
           download
         >

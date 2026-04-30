@@ -40,3 +40,4 @@ next-env.d.ts
 
 # downloads
 /public/downloads/
+public/*.dmg
