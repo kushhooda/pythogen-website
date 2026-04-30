@@ -27,7 +27,7 @@ export default function DownloadPage() {
         Download Canvas
       </h1>
       <p className="mb-10 text-xl text-neutral-500 dark:text-neutral-400">
-        Version 1.0 &middot; macOS 13.0 or later
+        v0.04 &middot; macOS 13.0 or later
       </p>
       
       <div className="flex flex-col gap-4 sm:flex-row">
@@ -48,7 +48,7 @@ export default function DownloadPage() {
       </div>
 
       <div className="mt-12 text-sm text-neutral-500">
-        By downloading, you agree to our <Link href="/about" className="underline">Terms of Use</Link> and <Link href="/about" className="underline">Privacy Policy</Link>.
+        By downloading, you agree to our <Link href="/terms" className="underline">Terms of Use</Link> and <Link href="/privacy" className="underline">Privacy Policy</Link>.
       </div>
     </div>
   );
